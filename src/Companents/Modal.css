@@ -1,0 +1,127 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+.modalBackground {
+  width: 100%;
+  height: 100%;
+  background-color: rgba(31, 22, 22, 0.719);
+  position: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 999;
+  top: 0;
+  left: 0;
+}
+.LoginModal {
+  width: 500px;
+  height: 520px;
+  border-radius: 12px;
+  box-shadow: rgba(0, 0, 0, 0.35);
+  display: flex;
+  flex-direction: column;
+  padding: 25px;
+  text-align: center;
+  /* background-image: url("../images//FormBackground.jpg"); */
+  background-color: #051622;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.closeBtnDiv {
+  display: flex;
+  justify-content: flex-end !important;
+}
+.closeBtnDiv button {
+  font-weight: bolder;
+  color: #deb992;
+}
+.closeBTN {
+  width: 50px;
+  height: 50px;
+  border: 0;
+  background-color: transparent;
+  font-size: 25px;
+  cursor: pointer;
+}
+.LogInput input {
+  margin-bottom: 2rem;
+  border: 1px solid gray;
+  border-radius: 15px;
+  padding: 10px;
+  font-size: 18px;
+  width: 100%;
+}
+.LogTitle {
+  font-size: 20px;
+  letter-spacing: 0.05rem;
+  margin-bottom: 2rem;
+}
+.LogTitle h2 {
+  color: #deb992;
+}
+.LogButton {
+  margin-bottom: 2rem;
+}
+.LogButton > button {
+  font-size: 20px;
+  padding: 7px 30px;
+  border-radius: 7px;
+  background-color: #1ba098;
+  /* background: #728db6;
+  background: -webkit-linear-gradient(top left, #728db6, #e68408);
+  background: -moz-linear-gradient(top left, #728db6, #e68408);
+  background: linear-gradient(to bottom right, #728db6, #e68408); */
+  color: #fff;
+  cursor: pointer;
+  transition: 0.4s;
+  border: 1px solid transparent;
+}
+.LogButton > button:hover {
+  border-color: #deb992;
+  background-color: #051622;
+  color: #deb992;
+}
+.fb_google {
+  display: flex;
+  flex-direction: column;
+}
+.fb_google a {
+  margin-bottom: 1.7rem;
+  border: 3px solid transparent;
+  cursor: pointer;
+  transition: 0.5s;
+}
+.fb_google a:hover {
+  border-color: #deb992;
+  background-color: #051622;
+  color: #deb992;
+}
+.fb_google .fb {
+  background-color: #405a93;
+  color: #fff;
+  font-size: 20px;
+  padding: 8px 0;
+  border-radius: 12px;
+}
+.fb_google .google {
+  background-color: #fff;
+  color: #000;
+  font-size: 20px;
+  padding: 8px 0;
+  border-radius: 12px;
+}
+
+.forgot {
+  text-align: end;
+}
+.forgot a {
+  color: #1ba098;
+  font-size: 18px;
+}
+.forgot a:hover {
+  color: #deb992;
+}
