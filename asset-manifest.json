@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Metacomp/static/css/main.baa8c477.css",
-    "main.js": "/Metacomp/static/js/main.972eb6b6.js",
+    "main.css": "/Metacomp/static/css/main.75f639fc.css",
+    "main.js": "/Metacomp/static/js/main.2d49a2a8.js",
     "static/media/gif.gif": "/Metacomp/static/media/gif.d64539aa4073411045cf.gif",
     "static/media/keyboard.jpg": "/Metacomp/static/media/keyboard.5436de13fced75f3d7ca.jpg",
     "static/media/cooler.jpg": "/Metacomp/static/media/cooler.32eb1a6f0fcd39041feb.jpg",
@@ -59,13 +59,14 @@
     "static/media/companiesBcg2.jpg": "/Metacomp/static/media/companiesBcg2.cc3b7b39cc1838633cbe.jpg",
     "static/media/corsair.png": "/Metacomp/static/media/corsair.8852c9b3584b92363cf1.png",
     "static/media/why2.png": "/Metacomp/static/media/why2.7a17c4af4dfa274a65d0.png",
+    "static/media/miniLogo.png": "/Metacomp/static/media/miniLogo.4e9eb63f07e85e673699.png",
     "static/media/nzxt.jpg": "/Metacomp/static/media/nzxt.131d1d6667bf6b63fbb3.jpg",
     "index.html": "/Metacomp/index.html",
-    "main.baa8c477.css.map": "/Metacomp/static/css/main.baa8c477.css.map",
-    "main.972eb6b6.js.map": "/Metacomp/static/js/main.972eb6b6.js.map"
+    "main.75f639fc.css.map": "/Metacomp/static/css/main.75f639fc.css.map",
+    "main.2d49a2a8.js.map": "/Metacomp/static/js/main.2d49a2a8.js.map"
   },
   "entrypoints": [
-    "static/css/main.baa8c477.css",
-    "static/js/main.972eb6b6.js"
+    "static/css/main.75f639fc.css",
+    "static/js/main.2d49a2a8.js"
   ]
 }
