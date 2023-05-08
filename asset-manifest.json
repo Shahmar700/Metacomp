@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Metacomp/static/css/main.75f639fc.css",
-    "main.js": "/Metacomp/static/js/main.2d49a2a8.js",
+    "main.js": "/Metacomp/static/js/main.76f0d8ba.js",
     "static/media/gif.gif": "/Metacomp/static/media/gif.d64539aa4073411045cf.gif",
     "static/media/keyboard.jpg": "/Metacomp/static/media/keyboard.5436de13fced75f3d7ca.jpg",
     "static/media/cooler.jpg": "/Metacomp/static/media/cooler.32eb1a6f0fcd39041feb.jpg",
@@ -63,10 +63,10 @@
     "static/media/nzxt.jpg": "/Metacomp/static/media/nzxt.131d1d6667bf6b63fbb3.jpg",
     "index.html": "/Metacomp/index.html",
     "main.75f639fc.css.map": "/Metacomp/static/css/main.75f639fc.css.map",
-    "main.2d49a2a8.js.map": "/Metacomp/static/js/main.2d49a2a8.js.map"
+    "main.76f0d8ba.js.map": "/Metacomp/static/js/main.76f0d8ba.js.map"
   },
   "entrypoints": [
     "static/css/main.75f639fc.css",
-    "static/js/main.2d49a2a8.js"
+    "static/js/main.76f0d8ba.js"
   ]
 }
